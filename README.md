@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo 👋
 
-Desenvolvedor Backend com formação em Ciência e Tecnologia. Durante minha jornada acadêmica, mergulhei profundamente no aprendizado de linguagens e frameworks de back-end, aprimorando minhas habilidades técnicas e buscando soluções inovadoras para desafios complexos. Além do conhecimento técnico, desenvolvi competências essenciais, como proatividade, trabalho em equipe, comunicação e organização. Estou em constante evolução, buscando sempre me atualizar e me adaptar às demandas do mercado. Logo abaixo te convido a clicar no botão e acessar meu perfil no LinkedIn.
+Desenvolvedor Backend com formação em Ciência e Tecnologia. Durante minha jornada acadêmica, mergulhei profundamente no aprendizado de linguagens e frameworks, aprimorando minhas habilidades técnicas e buscando soluções inovadoras para desafios complexos. Além do conhecimento técnico, desenvolvi competências essenciais, como proatividade, trabalho em equipe, comunicação e organização. Estou em constante evolução, buscando sempre me atualizar e me adaptar às demandas do mercado. Logo abaixo te convido a clicar no botão e acessar meu perfil no LinkedIn.
 
 <div style="display: inline_block"><br/>
     <a href="https://www.linkedin.com/in/gustavo-lima15/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
